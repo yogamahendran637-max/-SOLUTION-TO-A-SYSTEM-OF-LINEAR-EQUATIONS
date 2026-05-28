@@ -18,7 +18,7 @@ End the program
 ## Output:
 
 
-<img width="1062" height="488" alt="Screenshot 2025-11-07 223230" src="https://github.com/user-attachments/assets/9f07a8e8-a012-45a1-8693-5482eacb47f1" />
+<img width="1920" height="1016" alt="Screenshot 2026-05-28 204205" src="https://github.com/user-attachments/assets/c3061149-b467-4b3c-92f9-14045165f913" />
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
